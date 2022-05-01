@@ -1,5 +1,5 @@
 # Variational-Auto-Encoder
-Variational auto-encoders can be used to generate data. In this project, we made one to generate digits thanks to the MINST dataset.
+Variational auto-encoders can be used to generate data. In this project, we made one to generate digits thanks to the MNIST dataset.
 
 The goal of a variational auto-encoder is to cluster data in the latent space in order that close points share the same properties.
 ![Graph](https://user-images.githubusercontent.com/97120816/166149231-8f88e9a8-dfbd-4204-857a-389867a6b54e.png)
